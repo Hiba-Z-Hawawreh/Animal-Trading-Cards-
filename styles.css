@@ -1,0 +1,49 @@
+
+  .big-card{
+                 box-shadow: 2px 4px 10px 4px rgb(63, 133, 63);
+                 border:solid  rgb(107, 110, 110);
+                 width: 350px; 
+                 height: 620px;
+                 margin :auto;
+                 margin-top: auto; 
+                 margin-bottom: auto;
+                 background-color: rgb(212, 200, 200);
+                 border-radius: 5%;
+                  }
+
+ .small-card{
+  
+                 border-radius: 5%;
+                 border:  solid rgb(79, 82, 83);
+                 margin-left: 25px;
+                 margin-right: 5%;
+                 margin-bottom: 10%;
+                 margin-top: 2%;
+                 background-color: white;
+                 }
+.img{
+                 border-radius: 5%;
+                 width: 300px;
+                 height: 200px;
+                 text-align: center;
+                 padding: 0.0002em;
+                 margin-left: 25px;
+
+                 }
+ .paragraph1 {
+                 font-size: 16px;
+                 font-style: italic;
+}
+ .paragraph2{
+              font-size: 16px;
+                 
+}
+.address{
+  margin-top: 25px;
+  margin-left:25px ;
+  font-size: 30px;
+  font-weight: bold;
+}
+div{
+  padding: 0.1em;
+}
